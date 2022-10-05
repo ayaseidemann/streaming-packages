@@ -18,10 +18,10 @@
 <li>uuid</li>
 
 ### Developers:
-<h4>Aya Seidemann</h4>
-<h4>Kayle Robson</h4>
+<p>Aya Seidemann</p>
+<p>Kayle Robson</p>
 
 ### UX/UI Designers:
-<h4>Preethi Gaunder</h4>
-<h4>Clarinne Tham</h4>
-<h4>Minh Hoang</h4>
+<p>Preethi Gaunder</p>
+<p>Clarinne Tham</p>
+<p>Minh Hoang</p>
