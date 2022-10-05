@@ -1,6 +1,9 @@
 <h1> Hackathon - Telus Digital Partner </h1>
 
-<h2>changing layout and orginization</h2>
+## Developed for 24 Hackathon for Telus Digital
+<p>Winning team for Telus hackathon tasked with 
+    coming up with a solution to help users create a TV package 
+    that has all their preferred channels</p>
 
 <p>To run our React app you will need</p>
 
