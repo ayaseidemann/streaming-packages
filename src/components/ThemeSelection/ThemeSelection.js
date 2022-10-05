@@ -337,15 +337,7 @@ function ThemeSelection() {
                   src={checkmarks}
                   alt="checkmark"
                 />
-                Primetime
-              </p>
-              <p className="checkout__theme">
-                <img
-                  className="checkout__checkmark"
-                  src={checkmarks}
-                  alt="checkmark"
-                />
-                Explore
+                Prime Time
               </p>
               <p className="checkout__theme">
                 <img
@@ -354,6 +346,14 @@ function ThemeSelection() {
                   alt="checkmark"
                 />
                 Living
+              </p>
+              <p className="checkout__theme">
+                <img
+                  className="checkout__checkmark"
+                  src={checkmarks}
+                  alt="checkmark"
+                />
+                Sportsnet Plus
               </p>
               <h3 className="checkout__header">Premium</h3>
               <p className="checkout__theme">
