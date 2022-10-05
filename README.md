@@ -9,7 +9,7 @@
 
 ### `npm intall`
 
-### `Dependencies:`
+### Dependencies:
 <li>React</li>
 <li>Framer/motion</li>
 <li>react-collapsed</li>
@@ -17,11 +17,11 @@
 <li>sass</li>
 <li>uuid</li>
 
-### `Developers:`
-<h4>Kayle Robson</h4>
+### Developers:
 <h4>Aya Seidemann</h4>
+<h4>Kayle Robson</h4>
 
-### `UX/UI Designers:`
+### UX/UI Designers:
 <h4>Preethi Gaunder</h4>
 <h4>Clarinne Tham</h4>
-<h4>Henry Hoang</h4>
+<h4>Minh Hoang</h4>
